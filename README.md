@@ -6,7 +6,7 @@
 
 ## 🤖 About Me
 
-- 🎓 First-year **Robotics & AI Engineering** student at **GNDEC, Ludhiana**
+- 🎓 Second-year **Robotics & AI Engineering** student at **GNDEC, Ludhiana**
 - 🔧 I build robots, RC systems, Autonomous robots
 - ⚡ Long-term goal: Iron Man-inspired exoskeleton & flight systems
 - 🏁 Active in robotics competitions — Roborace, WRO FE, IRoC-U
